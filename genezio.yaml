@@ -1,0 +1,7 @@
+frontend:
+    path: ./
+    publish: ./
+    subdomain: orange-many-snail
+name: argon-design-system
+region: eu-central-1
+yamlVersion: 2
